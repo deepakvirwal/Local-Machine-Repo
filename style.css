@@ -1,4 +1,6 @@
 p {
-    color: blue;
-    font-style: bold;
+    color: red;
+    font-style: italic;
+    text-decoration: underline;
 }
+
